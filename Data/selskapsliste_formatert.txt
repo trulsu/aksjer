@@ -1,0 +1,190 @@
+ASC,ABG Sundal Collier Holding ASA
+AEGA,Aega ASA,Oslo Axess
+AFG,AF Gruppen ASA,Oslo Børs
+APCL,African Petroleum Corporation Limited,Oslo Axess
+AKA,Akastor ASA,Oslo Børs
+AKA,Akastor ASA,Oslo Børs
+AKER,Aker ASA,Oslo Børs
+AKERBP,Aker BP ASA,Oslo Børs
+AKSO,Aker Solutions ASA,Oslo Børs
+AKVA,AKVA Group ASA,Oslo Børs
+AMSC,American Shipping Company ASA,Oslo Børs
+APP,Apptix ASA,Oslo Børs
+ABT,Aqua Bio Technology ASA,Oslo Axess
+AQUA,Aqualis ASA,Oslo Børs
+ARCHER,Archer Limited,Oslo Børs
+ARCUS,Arcus ASA,Oslo Børs
+AFK,Arendals Fossekompani ASA,Oslo Børs
+ASETEK,Asetek A/S,Oslo Børs
+ATEA,Atea ASA,Oslo Børs
+ATLA NOK,Atlantic Petroleum P/F,Oslo Børs
+AUSS,Austevoll Seafood ASA,Oslo Børs
+AVANCE,Avance Gas Holding Ltd.,Oslo Børs
+AVM,Avocet Mining PLC,Oslo Børs
+AWDR,Awilco Drilling PLC,Oslo Axess
+ALNG,Awilco LNG ASA,Oslo Axess
+AXA,Axactor AB (publ),Oslo Børs
+B2H,B2Holding ASA,Oslo Børs
+BXPL,Badger Explorer ASA,Oslo Axess
+BEL,Belships ASA,Oslo Børs
+BERGEN,Bergen Group ASA,Oslo Børs
+BIONOR,Bionor Pharma ASA,Oslo Børs
+BIOTEC,Biotec Pharmacon ASA,Oslo Børs
+BIRD,Birdstep Technology ASA,Oslo Børs
+BON,Bonheur ASA,Oslo Børs
+BOR,Borgestad ASA,Oslo Børs
+BRG,Borregaard ASA,Oslo Børs
+BOUVET,Bouvet ASA,Oslo Børs
+BWLPG,BW LPG Limited,Oslo Børs
+BWO,BW Offshore Limited,Oslo Børs
+BMA,Byggma ASA,Oslo Børs
+COV,ContextVision AB,Oslo Børs
+CXENSE,Cxense ASA,Oslo Børs
+DAT,Data Respons ASA,Oslo Børs
+DESSC,Deep Sea Supply Plc,Oslo Børs
+DNB,DNB ASA,Oslo Børs
+DNO,DNO ASA,Oslo Børs
+DOF,DOF ASA,Oslo Børs
+EAM,EAM Solar ASA,Oslo Axess
+EIOF,Eidesvik Offshore ASA,Oslo Børs
+EKO,Ekornes ASA,Oslo Børs
+EMGS,Electromagnetic Geoservices ASA,Oslo Børs
+EMAS,EMAS Offshore Limited,Oslo Børs
+ENTRA,Entra ASA,Oslo Børs
+EPR,Europris ASA,Oslo Børs
+FAR,Farstad Shipping ASA,Oslo Børs
+FLNG,FLEX LNG LTD,Oslo Axess
+FOE,Fred. Olsen Energy ASA,Oslo Børs
+FRO,Frontline Ltd.,Oslo Børs
+FUNCOM,Funcom N.V.,Oslo Børs
+GIG,Gaming Innovation Group Inc.,Oslo Børs
+RISH,GC Rieber Shipping ASA,Oslo Børs
+GJF,Gjensidige Forsikring ASA,Oslo Børs
+GOGL,Golden Ocean Group Ltd.,Oslo Børs
+GOD,Goodtech ASA,Oslo Børs
+GSF,Grieg Seafood ASA,Oslo Børs
+GYL,Gyldendal ASA,Oslo Børs
+HNA,Hafslund ASA,Oslo Børs
+HFISK,Havfisk ASA,Oslo Børs
+HAVI,Havila Shipping ASA,Oslo Børs
+HYARD,Havyard Group ASA,Oslo Børs
+HEX,Hexagon Composites ASA,Oslo Børs
+HIDDN,Hiddn Solutions ASA,Oslo Børs
+HBC,Hofseth BioCare ASA,Oslo Axess
+HUGO,Hugo Games A/S,Oslo Axess
+HLNG,Höegh LNG Holdings Ltd,Oslo Børs
+IMSK,I.M. Skaugen SE,Oslo Børs
+IDEX,IDEX ASA,Oslo Børs
+INC,Incus Investor ASA,Oslo Børs
+INSR,Insr Insurance Group ASA,Oslo Børs
+IOX,InterOil Exploration and Production ASA,Oslo Børs
+ITX,Intex Resources ASA,Oslo Børs
+ITE,Itera ASA,Oslo Børs
+JIN,Jinhui Shipping and Transportation Limit,Oslo Børs
+KID,KID ASA,Oslo Børs
+KIT,Kitron ASA
+KOA,Kongsberg Automotive Holding ASA,Oslo Børs
+KOG,Kongsberg Gruppen ASA,Oslo Børs
+KVAER,Kværner ASA,Oslo Børs
+LSG,Lerøy Seafood Group ASA,Oslo Børs
+LINK,Link Mobility ASA,Oslo Børs
+MSEIS,Magseis ASA,Oslo Axess
+MHG,Marine Harvest ASA,Oslo Børs
+MEDI,Medi-Stim ASA,Oslo Børs
+MCG,MultiClient Geophysical ASA,Oslo Axess
+MULTI,Multiconsult ASA,Oslo Børs
+NAPA,Napatech A/S,Oslo Børs
+NATTO,NattoPharma ASA,Oslo Axess
+NAVA,Navamedic ASA,Oslo Børs
+NEL,NEL ASA,Oslo Børs
+NEXT,Next Biometrics Group ASA,Oslo Børs
+NGT,NextGenTel Holding ASA,Oslo Børs
+NOM,Nordic Mining ASA,Oslo Axess
+NANO,Nordic Nanovector ASA,Oslo Børs
+NOD,Nordic Semiconductor ASA,Oslo Børs
+NHY,Norsk Hydro ASA,Oslo Børs
+NSG,Norske Skogindustrier ASA,Oslo Børs
+NORTH,North Energy ASA,Oslo Axess
+NRS,Norway Royal Salmon ASA,Oslo Børs
+NAS,Norwegian Air Shuttle ASA,Oslo Børs
+NOR,Norwegian Energy Company ASA,Oslo Børs
+NOFIN,Norwegian Finans Holding ASA,Oslo Børs
+NPRO,Norwegian Property ASA,Oslo Børs
+NRC,NRC Group ASA,Oslo Børs
+NTS,NTS ASA,Oslo Børs
+OCY,Ocean Yield ASA,Oslo Børs
+OTS,Oceanteam ASA,Oslo Børs
+ODL,Odfjell Drilling Ltd,Oslo Børs
+ODF,Odfjell SE,Oslo Børs
+OLT,Olav Thon Eiendomsselskap ASA,Oslo Børs
+OPERA,Opera Software ASA,Oslo Børs
+ORK,Orkla ASA,Oslo Børs
+BAKKA,P/f Bakkafrost,Oslo Børs
+PEN,Panoro Energy ASA,Oslo Børs
+PARB,Pareto Bank ASA,Oslo Børs
+PCIB,PCI Biotech Holding ASA,Oslo Axess
+PGS,Petroleum Geo - Services ASA,Oslo Børs
+PDR,Petrolia SE,Oslo Børs
+PHLY,Philly Shipyard ASA,Oslo Axess
+PHO,Photocure ASA,Oslo Børs
+PPG PREF,Pioneer Property Group ASA,Oslo Axess
+PLCS,Polarcus Ltd
+POL,Polaris Media ASA,Oslo Børs
+PRS,Prosafe SE,Oslo Børs
+PROTCT,Protector Forsikring ASA,Oslo Børs
+QFR,Q-Free ASA,Oslo Børs
+QEC,Questerre Energy Corporation,Oslo Børs
+RAKP,RAK Petroleum plc,Oslo Børs
+REACH,Reach Subsea ASA,Oslo Børs
+REC,REC Silicon ASA,Oslo Børs
+RENO,RenoNorden ASA,Oslo Børs
+ROM,RomReal Ltd.,Oslo Axess
+SDSD,S.D. Standard Drilling PLC,Oslo Axess
+SAGA,Saga Tankers ASA,Oslo Axess
+SALM,SalMar ASA,Oslo Børs
+SAS NOK,SAS Group AB,Oslo Børs
+SSHIP,Scanship Holding,Oslo Axess
+SSO,Scatec Solar ASA,Oslo Børs
+SCH,Schibsted ASA,Oslo Børs
+SBX,SeaBird Exploration PLC,Oslo Børs
+SDRL,Seadrill Limited,Oslo Børs
+SBO,Selvaag Bolig ASA,Oslo Børs
+SER,Serodus ASA,Oslo Axess
+SEVDR,Sevan Drilling Ltd,Oslo Børs
+SEVAN,Sevan Marine ASA,Oslo Børs
+SIOFF,Siem Offshore Inc.,Oslo Børs
+SSI,Siem Shipping Inc.,Oslo Børs
+SKBN,Skandiabanken ASA,Oslo Børs
+SKI,Skiens Aktiemølle ASA,Oslo Børs
+SOFF,Solstad Offshore ASA,Oslo Børs
+SOLV,Solvang ASA,Oslo Børs
+SONG,Songa Offshore SE,Oslo Børs
+SRBANK,SpareBank 1 SR-Bank ASA,Oslo Børs
+SPU,Spectrum ASA,Oslo Børs
+STL,Statoil ASA,Oslo Børs
+SNI,Stolt-Nielsen Limited,Oslo Børs
+STB,Storebrand ASA,Oslo Børs
+STORM,Storm Real Estate ASA,Oslo Børs
+STRONG,StrongPoint ASA,Oslo Børs
+SUBC,Subsea 7 SA,Oslo Børs
+TIL,Tanker Investments Ltd,Oslo Børs
+TRVX,Targovax ASA,Oslo Axess
+TEAM,Team Tankers International Ltd.,Oslo Børs
+TEL,Telenor ASA,Oslo Børs
+TGS,TGS-NOPEC Geophysical Company ASA,Oslo Børs
+SSC,The Scottish Salmon Company Ltd,Oslo Børs
+THIN,Thin Film Electronics ASA,Oslo Børs
+TIDE,Tide ASA
+TOM,Tomra Systems ASA,Oslo Børs
+TRE,Treasure ASA,Oslo Børs
+TTS,TTS Group ASA,Oslo Børs
+VEI,Veidekke ASA,Oslo Børs
+VISTIN,Vistin Pharma ASA,Oslo Axess
+VVL,Voss Veksel- og Landmandsbank ASA,Oslo Børs
+WEIFA,Weifa ASA,Oslo Børs
+WRL,Wentworth Resources Ltd,Oslo Børs
+WWASA,Wilh. Wilhelmsen ASA,Oslo Børs
+WWI,Wilh. Wilhelmsen Holding ASA,Oslo Børs
+WILS,Wilson ASA,Oslo Børs
+XXL,XXL ASA,Oslo Børs
+YAR,Yara International ASA,Oslo Børs
