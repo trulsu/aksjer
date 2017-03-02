@@ -8,6 +8,10 @@ __pycache__/
 
 # Databases
 Data/*.sqlite3
+stockdata/*
+
+# Generated csv files
+*.csv
 
 # Distribution / packaging
 .Python
