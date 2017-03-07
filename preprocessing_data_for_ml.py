@@ -2,6 +2,10 @@ import numpy as np
 import pandas as pd
 import pickle
 from collections import Counter
+from sklearn import svm, cross_validation, neighbors
+from sklearn.ensemble import VotingClassifier, RandomForestClassifier
+
+# pythonprogramming.net -> machine learning
 
 # Can we find out if a company is going to follow another?
 # sentdex - Preprocessing data for Machine Learning
@@ -23,7 +27,7 @@ def process_data_for_labels(ticker):
 # 1 - buy, 0 - hold, -1 - sell
 def buy_sell_hold(*args):
 	cols = [c for c in args]
-	requirement = 0.02 # 2% change in 7 days
+	requirement = 0.028 # 2% change in 7 days
 	for col in cols:
 		if col > requirement:
 			return 1
@@ -61,4 +65,32 @@ def extract_featuresets(ticker):
 
 	return X,Y, df
 
-extract_featuresets('AKER.OL')
+# Machine learning - Python programming for Finance p.12
+def do_ml(ticker):
+	X,y,df = extract_featuresets(ticker)
+
+	X_train, X_test, y_train, y_test = cross_validation.train_test_split(X,y,test_size = 0.25)
+
+	#clf = neighbors.KNeighborsClassifier()
+
+	# All these classifiers have lots of parameters
+	clf = VotingClassifier(
+		[
+			('lsvc', svm.LinearSVC()),
+			('knn', neighbors.KNeighborsClassifier()),
+			('rfor', RandomForestClassifier())
+		]
+	)
+
+	clf.fit(X_train, y_train)
+	confidence = clf.score(X_test,y_test)
+	print('Accuracy:', confidence)
+
+	predictions = clf.predict(X_test)
+	print('Predicited spreak:', Counter(predictions))
+
+	return confidence
+
+do_ml('AKER.OL')
+
+#extract_featuresets('AKER.OL')
