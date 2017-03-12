@@ -1,0 +1,8 @@
+{
+	"tickerfile" : "oslobors.tickle",
+	"startdate"  : "2000-01-01",
+	"analysis": [
+		"bollinger",
+		"something"
+	]
+}
