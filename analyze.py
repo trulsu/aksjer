@@ -18,7 +18,9 @@ In the end I want:
 """
 
 import json
+import pickle
 from pprint import pprint # Pretty print
+from ticker import tickerdata as td
 
 # Read the settings.json file to get our settings
 def read_settings():
@@ -29,7 +31,16 @@ def read_settings():
 		print('Could not read settings.json')
 	return settings
 
+def read_tickerfile(tickerfile):
+	try:
+		with open(tickerfile, "rb") as f:
+			tickers = pickle.load(f)
+	except:
+		print('could not read tickerfile: "{}"'.format(tickerfile))
+		exit()
+	return tickers
+
 settings = read_settings()
 tickerfile = settings["tickerfile"]
-print('tickerfile:{}'.format(tickerfile))
-pprint(settings)
+tickers = read_tickerfile(tickerfile)
+td.import_tickerdata(tickers)

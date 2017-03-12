@@ -1,17 +1,9 @@
-#!/usr/bin/python
-
-import pickle
 import pandas as pd
 import pandas_datareader.data as web
 import datetime as dt
 import sys
 import os
 import sqlite3
-
-def read_tickerfile(tickerfile):
-	with open(tickerfile, "rb") as f:
-		tickers = pickle.load(f)
-	return tickers
 
 # Get the last date from the datatable
 def get_startdate(connection):
@@ -50,10 +42,6 @@ def get_data_from_yahoo(tickers):
 
  		connection.close()
 
-if len(sys.argv) != 2:
-	print("Usage: import_tickerdata.py tickerfile.pickle")
-	exit()
-
-tickerfile = sys.argv[1]
-tickers = read_tickerfile(tickerfile)
-get_data_from_yahoo(tickers)
+def import_tickerdata(tickers):
+	get_data_from_yahoo(tickers)
+	
