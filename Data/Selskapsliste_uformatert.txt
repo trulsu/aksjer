@@ -28,12 +28,6 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-AKA
-Akastor ASA
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
 AKER
 Aker ASA
 Oslo Børs
@@ -163,12 +157,6 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-BXPL
-Badger Explorer ASA
-Oslo Axess
-Norway
-Primærnotert
-JA/Yes
 BEL
 Belships ASA
 Oslo Børs
@@ -177,6 +165,12 @@ Primærnotert
 JA/Yes
 BERGEN
 Bergen Group ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+BGBIO
+BerGenBio ASA
 Oslo Børs
 Norway
 Primærnotert
@@ -207,6 +201,12 @@ Primærnotert
 JA/Yes
 BOR
 Borgestad ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+BDRILL
+Borr Drilling Limited
 Oslo Børs
 Norway
 Primærnotert
@@ -248,6 +248,12 @@ Sweden
 Primærnotert
 JA/Yes
 JA (SE) /Yes
+CRYON
+Crayon Group Holding ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
 CXENSE
 Cxense ASA
 Oslo Børs
@@ -260,13 +266,6 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-DESSC
-Deep Sea Supply Plc
-Oslo Børs
-Cyprus
-Primærnotert
-JA/Yes
-JA (KY) /Yes
 DNB
 DNB ASA
 Oslo Børs
@@ -309,6 +308,18 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
+ELE
+Element ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+ELK
+Elkem ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
 EMAS
 EMAS Offshore Limited
 Oslo Børs
@@ -321,21 +332,39 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
+EVRY
+EVRY ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
 EPR
 Europris ASA
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-FAR
-Farstad Shipping ASA
+EQNR
+Equinor ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+FJORD
+Fjord1 ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+FKRAFT
+Fjordkraft Holding ASA
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
 FLNG
 FLEX LNG LTD
-Oslo Axess
+Oslo Børs
 Norway
 Primærnotert
 JA/Yes
@@ -400,12 +429,6 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-HNA
-Hafslund ASA
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
 HFISK
 Havfisk ASA
 Oslo Børs
@@ -449,6 +472,12 @@ Denmark
 Primærnotert
 JA/Yes
 JA (DK)/Yes
+HUNT
+Hunter Group ASA
+Oslo Axess
+Norway
+Primærnotert
+JA/Yes
 HLNG
 Höegh LNG Holdings Ltd
 Oslo Børs
@@ -473,7 +502,14 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-INSR
+INFRNT
+Infront ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+                                                                                                             
+ INSR
 Insr Insurance Group ASA
 Oslo Børs
 Norway
@@ -481,12 +517,6 @@ Primærnotert
 JA/Yes
 IOX
 InterOil Exploration and Production ASA
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
-ITX
-Intex Resources ASA
 Oslo Børs
 Norway
 Primærnotert
@@ -509,9 +539,14 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-                                                                                                             
- KIT
+KIT
 Kitron ASA
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+KOMP
+Komplett Bank ASA
 Oslo Børs
 Norway
 Primærnotert
@@ -548,7 +583,7 @@ Primærnotert
 JA/Yes
 MSEIS
 Magseis ASA
-Oslo Axess
+Oslo Børs
 Norway
 Primærnotert
 JA/Yes
@@ -564,9 +599,9 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-MCG
-MultiClient Geophysical ASA
-Oslo Axess
+MPCC
+MPC Container Ships ASA
+Oslo Børs
 Norway
 Primærnotert
 JA/Yes
@@ -637,14 +672,14 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-NSG
-Norske Skogindustrier ASA
-Oslo Børs
+NORTH
+North Energy ASA
+Oslo Axess
 Norway
 Primærnotert
 JA/Yes
-NORTH
-North Energy ASA
+NODL
+Northern Drilling Ltd.
 Oslo Axess
 Norway
 Primærnotert
@@ -721,14 +756,14 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-OPERA
-Opera Software ASA
+ORK
+Orkla ASA
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-ORK
-Orkla ASA
+OTELLO
+Otello Corporation ASA
 Oslo Børs
 Norway
 Primærnotert
@@ -751,9 +786,10 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-PCIB
+                                                                                                             
+ PCIB
 PCI Biotech Holding ASA
-Oslo Axess
+Oslo Børs
 Norway
 Primærnotert
 JA/Yes
@@ -788,8 +824,7 @@ Oslo Axess
 Norway
 Primærnotert
 JA/Yes
-                                                                                                             
- PLCS
+PLCS
 Polarcus Ltd
 Oslo Børs
 Norway
@@ -845,12 +880,6 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-RENO
-RenoNorden ASA
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
 ROM
 RomReal Ltd.
 Oslo Axess
@@ -859,11 +888,17 @@ Primærnotert
 JA/Yes
 SDSD
 S.D. Standard Drilling PLC
-Oslo Axess
+Oslo Børs
 Cyprus
 Primærnotert
 JA/Yes
 JA (KY) / Yes
+SAFE
+Saferoad Holding ASA
+Oslo Axess
+Norway
+Primærnotert
+JA/Yes
 SAGA
 Saga Tankers ASA
 Oslo Axess
@@ -876,6 +911,12 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
+SALMON
+Salmones Camanchaca S.A.
+Oslo Børs
+Norway
+Primærnotert
+NEI/No
 SAS NOK
 SAS Group AB
 Oslo Børs
@@ -913,20 +954,14 @@ Oslo Børs
 Norway
 Sekundærnotert
 JA/Yes
-SBO
-Selvaag Bolig ASA
+SSG
+Self Storage Group ASA
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-SER
-Serodus ASA
-Oslo Axess
-Norway
-Primærnotert
-Ja/ Yes
-SEVDR
-Sevan Drilling Ltd
+SBO
+Selvaag Bolig ASA
 Oslo Børs
 Norway
 Primærnotert
@@ -937,49 +972,36 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
+SHLF
+Shelf Drilling, Ltd.
+Oslo Børs
+Norway
+Primærnotert
+JA/Yes
 SIOFF
 Siem Offshore Inc.
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-SSI
-Siem Shipping Inc.
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
-SKBN
-Skandiabanken ASA
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
-SKI
-Skiens Aktiemølle ASA
+SBANK
+Sbanken ASA
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
 SOFF
-Solstad Offshore ASA
+Solstad Farstad ASA
 Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-SOLV
-Solvang ASA
-Oslo Børs
+SBULK
+Songa Bulk ASA
+Oslo Axess
 Norway
 Primærnotert
 JA/Yes
-SONG
-Songa Offshore SE
-Oslo Børs
-Cyprus
-Primærnotert
-JA/Yes
-JA (KY) /Yes
 SRBANK
 SpareBank 1 SR-Bank ASA
 Oslo Børs
@@ -992,11 +1014,11 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-STL
-Statoil ASA
+SBLK R
+Star Bulk Carriers Corp.
 Oslo Børs
 Norway
-Primærnotert
+Sekundærnotert
 JA/Yes
 SNI
 Stolt-Nielsen Limited
@@ -1037,7 +1059,7 @@ Primærnotert
 JA/Yes
 TRVX
 Targovax ASA
-Oslo Axess
+Oslo Børs
 Norway
 Primærnotert
 JA/Yes
@@ -1047,6 +1069,7 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
+                                                                                                             
 TEL
 Telenor ASA
 Oslo Børs
@@ -1071,13 +1094,6 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-                                                                                                             
-TIDE
-Tide ASA
-Oslo Børs
-Norway
-Primærnotert
-JA/Yes
 TOM
 Tomra Systems ASA
 Oslo Børs
@@ -1093,6 +1109,12 @@ JA/Yes
 TTS
 TTS Group ASA
 Oslo Børs
+Norway
+Primærnotert
+JA/Yes
+UMS
+Unified Messaging Systems ASA
+Oslo Axess
 Norway
 Primærnotert
 JA/Yes
@@ -1114,12 +1136,12 @@ Oslo Børs
 Norway
 Primærnotert
 JA/Yes
-WEIFA
-Weifa ASA
+WSTEP
+Webstep ASA
 Oslo Børs
 Norway
 Primærnotert
-Ja/Yes
+JA/YES
 WRL
 Wentworth Resources Ltd
 Oslo Børs
@@ -1127,7 +1149,7 @@ Norway
 Primærnotert
 JA /Yes
 WWASA
-Wilh. Wilhelmsen ASA
+Wallenius Wilhelmsen Logistics ASA
 Oslo Børs
 Norway
 Primærnotert
