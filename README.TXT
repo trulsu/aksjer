@@ -15,3 +15,6 @@ Then run:
 4. Then plot the correlation data:
 >python create_correlationplot.py
 
+----- Selskapsliste fra Oslo Børs -----
+https://www.oslobors.no/Oslo-Boers/Notering/Aksjer-egenkapitalbevis-og-retter-til-aksjer/Oslo-Boers-og-Oslo-Axess/Noterte-selskapers-hjemstat
+
