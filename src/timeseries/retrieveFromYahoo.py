@@ -19,9 +19,9 @@ def get_data_from_yahoo(tickers):
 	 if not os.path.exists('stockdata'):
 	 	os.makedirs('stockdata')
 
-	 start = dt.datetime(2000,1,1)
+	 start = dt.datetime(2010,1,1)
 	 today = dt.datetime.today()
-	 end = dt.datetime(today.year, today. month, today.day)
+	 end = dt.datetime(today.year, today.month, today.day)
 
 	 for ticker in tickers:
 	 	print(ticker)
