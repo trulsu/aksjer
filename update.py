@@ -2,6 +2,7 @@
 
 import sys
 sys.path.insert(0, './src/tickers/')
+sys.path.insert(0, './src/timeseries/')
 
 import pandas as pd
 import os
@@ -13,4 +14,4 @@ if not os.path.isfile('./Data/selskapsliste_formatert.csv'):
 	exit
 
 selskaper = pd.read_csv('./Data/selskapsliste_formatert.csv',index_col=0)
-update_tickerdata(selskaper.Tickers.tolist(), './Data/')
+update_tickerdata(selskaper.Ticker.tolist(), './stockdata/')

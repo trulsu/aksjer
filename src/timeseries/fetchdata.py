@@ -5,6 +5,9 @@ import os
 import sqlite3
 from fetchdata_netfonds import get_tickerdata_from_netfonds
 
+# We want a dataset that contains the following columns:
+# ['date','ticker','open','close','high','low','close','volume']
+
 # Get the last date from the datatable
 def get_startdate(connection,tickerdb):
 	start = dt.datetime(2010,1,1)
@@ -27,19 +30,19 @@ def get_enddate():
 
 def update_tickerdatadb(ticker,stop,fetchfunc,datadir):
 	try:
-		tickerdb = 'stockdata/{}.sqlite'.format(ticker)
+		tickerdb = './{}/{}.sqlite'.format(datadir, ticker)
 		connection = sqlite3.connect(tickerdb, detect_types=sqlite3.PARSE_DECLTYPES)
 		start = get_startdate(connection, tickerdb)
- 		df = fetchfunc(ticker, start, end)
- 		df.to_sql(name='data',con=connection,if_exists='append')
- 	except:
- 		print("Error reading data for {}".format(ticker))
- 	connection.close()
+		df = fetchfunc(ticker, start, end)
+		df.to_sql(name='data',con=connection,if_exists='append')
+	except:
+		print("Error reading data for {}".format(ticker))
+	connection.close()
 
 def update_tickerdata(tickers, datadir):
 	if not os.path.exists(datadir):
-	 	os.makedirs(datadir)
+		os.makedirs(datadir)
 
 	stop = get_enddate()
 	for ticker in tickers:
-		update_tickerdata_from_osl(ticker,stop,get_tickerdata_from_netfonds, datadir)
+		update_tickerdatadb(ticker,stop,get_tickerdata_from_netfonds, datadir)
