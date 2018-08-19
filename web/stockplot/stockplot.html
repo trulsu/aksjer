@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Highstock Example</title>
+
+		<style type="text/css">
+            @import 'https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css';
+		</style>
+        <link rel="stylesheet" type="text/css" href="stockplot.css">
+	</head>
+	<body>
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/highstock.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/modules/annotations.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/modules/drag-panes.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/modules/data.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/indicators.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/accumulation-distribution.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/atr.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/bollinger-bands.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/cci.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/cmf.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/ema.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/ichimoku-kinko-hyo.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/macd.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/mfi.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/momentum.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/pivot-points.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/price-envelopes.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/roc.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/rsi.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/stochastic.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/volume-by-price.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/wma.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/vwap.js"></script>
+        <script src="../../lib/highstock-6.1.1/code/indicators/zigzag.js"></script>
+
+        <div id="container">
+            <div id="demo">
+                <div id="menu-nav">
+                    <div id="indicators-container">
+                        <div class="button-group">
+                            <button id="indicators-dropdown" class="menu-btn select-dropdown">Indicators</button>
+                            <ul class="dropdown-menu">
+                                <li><a href="#" class="small" data-axis="true" data-value="atr" tabIndex="-1"><span> ATR </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="bb" tabIndex="-1"><span> Bollinger bands </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-axis="true" data-value="cci" tabIndex="-1"><span> CCI </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="ema" tabIndex="-1"><span> EMA </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="ikh" tabIndex="-1"><span> Ichimoku Kinko Hyo </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-axis="true" data-value="macd" tabIndex="-1"><span> MACD </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="pivotpoints" tabIndex="-1"><span> Pivot Points </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="priceenvelopes" tabIndex="-1"><span> Price Envelopes </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-axis="true" data-value="roc" tabIndex="-1"><span> ROC </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-axis="true" data-value="rsi" tabIndex="-1"><span> RSI </span><input type="checkbox" selected="true"/></a></li>
+                                <li><a href="#" class="small" data-value="sma" tabIndex="-1"><span> SMA </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-axis="true" data-value="stochastic" tabIndex="-1"><span> Stochastic </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="wma" tabIndex="-1"><span> WMA </span><input type="checkbox"/></a></li>
+                                <li><a href="#" class="small" data-value="zigzag" tabIndex="-1"><span> Zig Zag </span><input type="checkbox"/></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="container-inner"></div>
+                
+            </div>
+        </div>
+		<script type="text/javascript" src="stockplot.js"></script>
+	</body>
+</html>

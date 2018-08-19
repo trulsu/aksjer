@@ -12,6 +12,9 @@ __pycache__/
 Data/*.sqlite3
 stockdata/*
 
+# Node modules
+web/stockapi/node_modules
+
 # Generated csv files
 *.csv
 
