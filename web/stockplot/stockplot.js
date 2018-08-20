@@ -408,7 +408,8 @@ window.onload = function () {
         });
     }
 
-    /* Load data for charts */
+    /* Load data for charts [Time, Open,High,Low,Close] */
+    /* Fri Aug 17 13:30 = 1534512600000 */
     Highcharts.ajax({
         url: 'https://www.highcharts.com/samples/data/aapl-ohlc.json',
         dataType: 'text',

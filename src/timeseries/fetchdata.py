@@ -21,22 +21,26 @@ def get_startdate(connection,tickerdb):
 			date += dt.timedelta(days=1)
 			start = date
 		except:
-			pass
+			print("Exception in get_startdate: {}".format(sys.exc_info()[0]))
 	return start
 
 def get_enddate():
 	today = dt.datetime.today()
 	return dt.datetime(today.year, today.month, today.day)
 
-def update_tickerdatadb(ticker,stop,fetchfunc,datadir):
+def update_tickerdatadb(ticker,stop,datadir):
 	try:
-		tickerdb = './{}/{}.sqlite'.format(datadir, ticker)
+		tickerdb = "./{}/{}.sqlite".format(datadir, ticker)
 		connection = sqlite3.connect(tickerdb, detect_types=sqlite3.PARSE_DECLTYPES)
 		start = get_startdate(connection, tickerdb)
-		df = fetchfunc(ticker, start, end)
-		df.to_sql(name='data',con=connection,if_exists='append')
+		end = get_enddate()
+		df = get_tickerdata_from_netfonds(ticker, start, end)
+		print(df.info)
+		df.to_sql('data',con=connection,if_exists='append')
+		connection.close()
 	except:
 		print("Error reading data for {}".format(ticker))
+		print("Exception in update_tickerdatadb: {}".format(sys.exc_info()))
 	connection.close()
 
 def update_tickerdata(tickers, datadir):
@@ -45,4 +49,4 @@ def update_tickerdata(tickers, datadir):
 
 	stop = get_enddate()
 	for ticker in tickers:
-		update_tickerdatadb(ticker,stop,get_tickerdata_from_netfonds, datadir)
+		update_tickerdatadb(ticker,stop, datadir)

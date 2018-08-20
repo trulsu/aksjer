@@ -13,5 +13,5 @@ if not os.path.isfile('./Data/selskapsliste_formatert.csv'):
 	print("Run the initialize.py script first to create this")
 	exit
 
-selskaper = pd.read_csv('./Data/selskapsliste_formatert.csv',index_col=0)
+selskaper = pd.read_csv('./Data/kortliste.csv',index_col=0)
 update_tickerdata(selskaper.Ticker.tolist(), './stockdata/')
